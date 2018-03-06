@@ -19,7 +19,8 @@ function buildModel()
         end for
     end for
 
-    print "ROOT CONTENT SIZE "; m.model.getChildCount()
+    'print "ROOT CONTENT SIZE "; m.model.getChildCount()
+    'Commented it'
 end function 
 
 function focusChanged()
