@@ -24,6 +24,7 @@ function buildModel()
     'First Original commit1 in Master'
     '1-Commit done in forkBranch1................><'
     '2-Commit done in forkBranch1................><'
+    '1-Commit done in forkBranch2................><'
 end function 
 
 function focusChanged()
