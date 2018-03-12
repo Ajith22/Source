@@ -22,6 +22,7 @@ function buildModel()
     'print "ROOT CONTENT SIZE "; m.model.getChildCount()
     'Commented it'
     'First Original commit1 in Master'
+    'Commit done in forkBranch1................><'
 end function 
 
 function focusChanged()
