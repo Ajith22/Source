@@ -32,7 +32,8 @@ function focusChanged()
             m.rowList.setFocus(true)
         end if
     end if
-    '<<-------Forked row list--------->>'
+    '<<-------Forked MaSTER commit--------->>'
+    '<<----------ContentMetaData----------->>'
 end function
 
 function itemFocused()
