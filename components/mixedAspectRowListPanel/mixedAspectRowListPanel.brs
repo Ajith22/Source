@@ -32,6 +32,7 @@ function focusChanged()
             m.rowList.setFocus(true)
         end if
     end if
+    '<<-------Forked row list--------->>'
 end function
 
 function itemFocused()
