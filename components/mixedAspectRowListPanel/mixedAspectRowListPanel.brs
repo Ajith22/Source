@@ -30,6 +30,7 @@ function focusChanged()
             m.rowList.setFocus(true)
         end if
     end if
+    '<<-----MAIN COMMIT MASTER------->>'
 end function
 
 function itemFocused()
