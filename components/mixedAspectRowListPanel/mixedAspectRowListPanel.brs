@@ -79,4 +79,5 @@ function init()
 
     m.top.id = "RowListTestScene"
     m.top.visible = true
+    ?"-------------gork-------forkbranch1--------"
 end function
