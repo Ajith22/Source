@@ -34,6 +34,8 @@ function focusChanged()
         end if
     end if
     '<<-----MAIN COMMIT MASTER------->>'
+    '<<-------Forked MaSTER commit--------->>'
+    '<<----------ContentMetaData----------->>'
 end function
 
 function itemFocused()
