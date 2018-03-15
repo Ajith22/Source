@@ -19,7 +19,7 @@ function buildModel()
         end for
     end for
 
-    'print "ROOT CONTENT SIZE "; m.model.getChildCount()
+    'print "ROOT CONTENT SIZE "; m.model.getChildCount()256merge con
     'Commented it'
     'First Original commit1 in Master'
     '1-Commit done in forkBranch1................><'
@@ -80,4 +80,5 @@ function init()
 
     m.top.id = "RowListTestScene"
     m.top.visible = true
+    ?"-------------gork-------forkbranch1--------"
 end function
